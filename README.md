@@ -1,5 +1,2 @@
-"# credit-card-defaulter" 
-"# credit-card-defaulter-detection" 
-"# credit-card-defaulter-detection" 
-"# forest_cover_Classification-" 
+
 "# -arjune15pb-forest_cover_Classification" 
